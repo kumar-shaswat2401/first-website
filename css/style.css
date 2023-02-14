@@ -1,0 +1,134 @@
+
+h1{
+    margin:50px auto 0 auto;
+    
+    position: relative;
+    font-family: 'sacramento';
+    font-size: 500%;
+    color: #66BFBF;
+    
+
+    
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather',serif;
+}
+h2{
+    font-family: 'montserrat';
+    color: #66BFBF;
+   margin-bottom: 30px;
+
+
+}
+h3{
+    font-family: 'montserrat';
+   
+    color: #11999E;
+    
+}
+.para1{
+    color: #40514E;
+    margin-bottom: 30px;
+}
+
+
+   
+
+.top-container{
+    background-color: #EAFDFC;
+    padding: 20px;
+   
+
+}
+
+
+    
+#cld1{
+
+    margin-top: 0;
+    position:absolute;
+    left:65%;
+   
+}
+#cld2{
+    position: absolute;
+    left:25%;
+
+}
+#my_img{
+    height:180px;
+    width: 180px;
+}
+.webdev{
+    
+
+    
+  width:20%;
+  float: left;
+  margin: auto 30px auto auto;
+  
+
+}
+.data-science{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    
+    line-height: 2;
+    text-align: left;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color:#9fa8a8;
+
+    border-width: 5px;
+    width:3%;
+    margin-bottom: 70px;
+
+}
+#para2{
+    text-align: left;
+    margin-bottom: 150px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 18px;
+    font-family:'montserrat' ;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+
+  .bottom-container{
+    margin-top: 50px;
+    color: #11999E;
+    background-color:#66BFBF;
+    height: 200px;
+
+    padding-top: 40px;
+  }
+  #logo{
+    color:#EAF6F6;
+  }
+
+  #para4{
+   padding-bottom: 40px;
+  }
